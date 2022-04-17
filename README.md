@@ -9,10 +9,9 @@
 ### 🙋‍♂️About Me
 * 🖥 I’m interested in learning how the computer world works!
 * 🌱 I’m currently taking The Odin Project
-
-## Goals
-* [ ] Finish the Odin Project in <3 months📅
-* [ ] Make a Personal Website in before my birthday🎉
+    ## Goals
+    * [ ] Finish the Odin Project in <3 months📅
+    * [ ] Make a Personal Website in before my birthday🎉
 
 
 ---
