@@ -9,7 +9,7 @@
 ### 🙋‍♂️About Me
 * 🖥 I’m interested in learning how the computer world works!
 * 🌱 I’m currently taking The Odin Project
-    ## Goals
+    #### Goals
     * [ ] Finish the Odin Project in <3 months📅
     * [ ] Make a Personal Website in before my birthday🎉
 
@@ -28,9 +28,9 @@
 ---
 
 ### 🔧Tools I Use:
-<img align="left" alt="VSCode" width="28px" src="https://i.ibb.co/rky699n/visual-studio-code-logo-icon-144754.png" />
 <img align="left" alt="Photoshop" width="32px" src="https://i.ibb.co/MZVNqg5/icons8-adobe-photoshop-550.png" />  
-<img align="left" alt="VSCode" width="28px" src="https://i.ibb.co/zskj9tM/godot-engine-logo-icon-145240.png" /> 
+<img align="left" alt="Godot" width="32px" src="https://i.ibb.co/x6sMnyn/godot-engine-logo-icon-145240-1.png" />
+<img align="left" alt="VSCode" width="32px" src="https://i.ibb.co/ZcbGnR4/visual-studio-code-logo-icon-144754-1.png" /> 
 
 <br />
 <br />
@@ -41,12 +41,15 @@
 [<img align="left" alt="Andrei's Accounts | Github" width="32px" src="https://i.ibb.co/jMXn8Xg/icons8-github-550.png" />][github]
 [<img align="left" alt="Andrei's Accounts | Reddit" width="32px" src="https://i.ibb.co/kK8S0Dj/icons8-reddit-550.png" />][reddit]
 [<img align="left" alt="Andrei's Accounts | Facebook" width="32px" src="https://i.ibb.co/RyDL6RZ/icons8-facebook-550.png" />][facebook]
-[<img align="left" alt="Andrei's Accounts | Instagram" width="32px" src="https://i.ibb.co/GJZYxb8/gmail.pngK" />][Gmail]
 [<img align="left" alt="Andrei's Accounts | Twitter" width="32px" src="https://i.ibb.co/R2LZwqz/icons8-twitter-circled-550.png" />][twitter]
+<br />
+
+* ### Other ways:
+  > 📧johnwayneandreiasi@gmail.com  
+  > 📱 09277907413 Globe
 
 <!-- Account links -->
 [github]: https://github.com/Andricole12
 [reddit]: https://www.reddit.com/user/Andricole12
 [facebook]: https://www.facebook.com/profile.php?id=100079385284475
 [twitter]: https://twitter.com/NosusChrist
-[Gmail]: johnwayneandreiasi@gmail.com
