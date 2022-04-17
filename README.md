@@ -7,8 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7612D&lines=Welcome+to+my+Github+account!+;I'm+Andrei+Asi;Feel+free+to+look+at+my+projects)](https://git.io/typing-svg)
 
 ### 🙋‍♂️About Me
+```
 * 🖥 I’m interested in learning how the computer world works!
 * 🌱 I’m currently taking The Odin Project
+* 🏁 Will make a Personal Website in before my birthday🎉
+```
 
 ### 💻Languages I Use:
 <img align="left" alt="PYTHON" width="32px" src="https://i.ibb.co/wdjDxZr/icons8-python-550.png" />
@@ -20,7 +23,10 @@
 <br />
 
 ### 🔧Tools I Use:
-<img align="left" alt="PHOTOSHOP" width="32px" src="https://i.ibb.co/MZVNqg5/icons8-adobe-photoshop-550.png" />  
+<img align="left" alt="VSCode" width="28px" src="https://i.ibb.co/rky699n/visual-studio-code-logo-icon-144754.png" />
+<img align="left" alt="Photoshop" width="32px" src="https://i.ibb.co/MZVNqg5/icons8-adobe-photoshop-550.png" />  
+<img align="left" alt="VSCode" width="28px" src="https://i.ibb.co/zskj9tM/godot-engine-logo-icon-145240.png" /> 
+
 
 <br />
 <br />
@@ -37,4 +43,4 @@
 [reddit]: https://www.reddit.com/user/Andricole12
 [facebook]: https://www.facebook.com/profile.php?id=100079385284475
 [twitter]: https://twitter.com/NosusChrist
-[Gmail]: https://twitter.com/NosusChrist
+[Gmail]: johnwayneandreiasi@gmail.com
