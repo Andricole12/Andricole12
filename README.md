@@ -1,55 +1,40 @@
-<!-- Title -->
-<h3 align="center">
-  Welcome to Andricole's profile!
+<h1 align="center">
+  UWU
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h1>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7612D&lines=Welcome+to+my+Github+account!+;I'm+Andrei+Asi;Feel+free+to+look+at+my+projects)](https://git.io/typing-svg)
 
-### 🙋‍♂️About Me
-* 🖥 I’m interested in learning how the computer world works!
-* 🌱 I’m currently taking The Odin Project
-    #### Goals
-    * [ ] Finish the Odin Project in <3 months📅
-    * [ ] Make a Personal Website in before my birthday🎉
+<h3 align="center">"haha code breaks. my fault."</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andricole12&label=Profile%20views&color=0e75b6&style=flat" alt="andricole12" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andricole12" alt="andricole12" /></a> </p>
 
-### 💻Languages I Use:
-<img align="left" alt="PYTHON" width="32px" src="https://i.ibb.co/wdjDxZr/icons8-python-550.png" />
-<img align="left" alt="HTML" width="32px" src="https://i.ibb.co/4TCYVy9/icons8-html-5-550.png" />
-<img align="left" alt="CSS" width="32px" src="https://i.ibb.co/nnGktYY/icons8-css3-550.png" />
-<img align="left" alt="JAVASCRIPT" width="32px" src="https://i.ibb.co/6yJSFyw/icons8-javascript-550.png" />
+- 🔭 I’m currently working on [The Odin Project](www.theodinproject.com)
 
-<br />
-<br />
+- 🌱 I’m currently learning **Computer Science(CS50)**
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/Andricole12?tab=repositories](https://github.com/Andricole12?tab=repositories)
 
-### 🔧Tools I Use:
-<img align="left" alt="Photoshop" width="32px" src="https://i.ibb.co/MZVNqg5/icons8-adobe-photoshop-550.png" />  
-<img align="left" alt="Godot" width="32px" src="https://i.ibb.co/x6sMnyn/godot-engine-logo-icon-145240-1.png" />
-<img align="left" alt="VSCode" width="32px" src="https://i.ibb.co/ZcbGnR4/visual-studio-code-logo-icon-144754-1.png" /> 
+- 📫 How to reach me **johnwayneandreiasi@gmail.com**
 
-<br />
-<br />
+- ⚡ Fun fact **There are more planes in the ocean than ships in the sky**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nosuschrist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nosuschrist" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/johnwayneandrei1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="johnwayneandrei1" height="30" width="40" /></a>
+<a href="https://discord.gg/bleh;<#1907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bleh;<#1907" height="30" width="40" /></a> <a href="https://www.reddit.com/user/Andricole12" target="blank"> <img align="left" alt="Andrei's Accounts | Reddit" width="32px" src="https://i.ibb.co/kK8S0Dj/icons8-reddit-550.png" />
+</p>
 
-### 📫 How to reach me:
-[<img align="left" alt="Andrei's Accounts | Github" width="32px" src="https://i.ibb.co/jMXn8Xg/icons8-github-550.png" />][github]
-[<img align="left" alt="Andrei's Accounts | Reddit" width="32px" src="https://i.ibb.co/kK8S0Dj/icons8-reddit-550.png" />][reddit]
-[<img align="left" alt="Andrei's Accounts | Facebook" width="32px" src="https://i.ibb.co/RyDL6RZ/icons8-facebook-550.png" />][facebook]
-[<img align="left" alt="Andrei's Accounts | Twitter" width="32px" src="https://i.ibb.co/R2LZwqz/icons8-twitter-circled-550.png" />][twitter]
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://godotengine.org" target="_blank" rel="noreferrer"> <img align="left" alt="Godot" width="36px" src="https://i.ibb.co/x6sMnyn/godot-engine-logo-icon-145240-1.png" /> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-* ### Other ways:
-  > 📧johnwayneandreiasi@gmail.com  
-  > 📱 09277907413 Globe
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andricole12&show_icons=true&locale=en&layout=compact" alt="andricole12" /></p>
 
-<!-- Account links -->
-[github]: https://github.com/Andricole12
-[reddit]: https://www.reddit.com/user/Andricole12
-[facebook]: https://www.facebook.com/profile.php?id=100079385284475
-[twitter]: https://twitter.com/NosusChrist
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andricole12&show_icons=true&locale=en" alt="andricole12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andricole12&" alt="andricole12" /></p>
+
