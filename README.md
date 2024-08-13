@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nosuschrist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nosuschrist" height="30" width="40" /></a>
+<a href="https://x.com/Dreimdead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nosuschrist" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/johnwayneandrei1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="johnwayneandrei1" height="30" width="40" /></a>
 <a href="https://discord.gg/bleh;<#1907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bleh;<#1907" height="30" width="40" /></a> <a href="https://www.reddit.com/user/Andricole12" target="blank"> <img align="left" alt="Andrei's Accounts | Reddit" width="32px" src="https://i.ibb.co/kK8S0Dj/icons8-reddit-550.png" />
 </p>
